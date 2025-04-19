@@ -1,2 +1,3 @@
 # demo
-This a demo repository
+This a demo repository.
+Hello!
